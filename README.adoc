@@ -22,4 +22,4 @@ The outcome of the RFC process will, normally, be for the proposal document to b
 
 When a proposal is accepted, the maintainers will start tickets to track the implementation. The tickets will be linked from the proposal document. Finally, when the implementation is complete, the status of the proposal document will be changed to *IMPLEMENTED*.
 
-The same steps are followed to change past decisions. However, once a proposed solution is implemented in code and configuration, the decision document is thereafter treated as immutable. Therefore, to change or revert past decisions, new documents must be added to the log that supersede the old ones. The status of the original decisions are changed to *DEPRECATED*.
+The same steps are followed to change past decisions. However, once a proposed solution is implemented in code and configuration, the decision document is thereafter treated as immutable. Therefore, to change or revert past decisions, new documents must be added to the log that supersede the old ones. The status of the original decisions can then be changed to *DEPRECATED*.
