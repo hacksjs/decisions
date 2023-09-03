@@ -26,8 +26,8 @@ When a proposal is accepted, the maintainers will start tickets to track the imp
 
 The same steps are followed to change past decisions. However, once a proposed solution is implemented in code and configuration, the design document is thereafter treated as immutable. Therefore, to change or revert past decisions, new documents must be appended to the log that supersede the old ones. The status of the original decisions can then be changed to *DEPRECATED*.
 
-.Contributor License Agreement
-****
+=== Contributor license agreement
+
 By opening a pull request to this repository, you accept and agree to the following terms and conditions:
 
 * You agree that your contribution may be distributed under the terms of the https://creativecommons.org/licenses/by/4.0/legalcode[Creative Commons Attribution 4.0 International License].
@@ -35,8 +35,6 @@ By opening a pull request to this repository, you accept and agree to the follow
 * You certify that your contribution is either created in whole by you and you have the right to distribute the work under the designated license, or is based on a previous work with a similar license that permits distribution and modification under the designated license.
 
 * You understand and agree that your contribution is public and that a record of the contribution, including all personal information that you submit with it, is maintained indefinitely and may be redistributed as per the requirements of the designated license.
-
-****
 
 '''
 
