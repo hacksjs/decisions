@@ -30,7 +30,7 @@ The same steps are followed to change past decisions. However, once a proposed s
 
 By opening a pull request to this repository, you accept and agree to the following terms and conditions:
 
-* You agree that your contribution may be distributed under the terms of the https://creativecommons.org/licenses/by/4.0/legalcode[Creative Commons Attribution 4.0 International License].
+* You agree that your contribution may be distributed under the terms of the https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 International License].
 
 * You certify that your contribution is either created in whole by you and you have the right to distribute the work under the designated license, or is based on a previous work with a similar license that permits distribution and modification under the designated license.
 
@@ -38,4 +38,4 @@ By opening a pull request to this repository, you accept and agree to the follow
 
 '''
 
-© https://github.com/hacksjs/decisions/graphs/contributors[Contributors] | link:LICENSE.txt[CC BY-SA 4.0]
+© https://github.com/hacksjs/decisions/graphs/contributors[Contributors] | link:LICENSE.txt[CC BY 4.0]
