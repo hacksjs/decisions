@@ -1,0 +1,5 @@
+= Babel
+
+////
+TODO: Discuss choices for using Babel vs TypeScript
+////
