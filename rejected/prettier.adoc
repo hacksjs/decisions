@@ -1,0 +1,5 @@
+= Prettier
+
+////
+TODO: Explain why this code formatter is disabled in the Hacks.js project.
+////
